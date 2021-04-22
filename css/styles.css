@@ -84,7 +84,7 @@ hr{
 .profile{
   width: 50%;
   margin: auto;
-  line-height: 0.5;
+  line-height: 0.8;
 }
 
 .footer-link{
@@ -101,6 +101,9 @@ hr{
 
 .contact-me{
   padding-top: 50px;
+  width: 50%;
+  margin: auto;
+  line-height: 1;
 }
 
 
