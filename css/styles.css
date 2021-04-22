@@ -80,6 +80,13 @@ hr{
   margin: 100px auto;
   text-align: left;
 }
+
+.profile{
+  width: 50%;
+  margin: auto;
+  line-height: 0.5;
+}
+
 .footer-link{
   padding: 0 30px;
 }
